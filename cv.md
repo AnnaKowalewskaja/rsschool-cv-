@@ -48,11 +48,14 @@ function duplicateEncode(word){
 ## __Experience__
 ### While studying at the University, we studied HTML, CSS, JavaScript, C#, PHP, but these were only small basics. Then I started working as a software engineer and now I can try my skills on a real site _(no one sees it yet)_. I often take free courses on programming and working with image editors.
 
+* __[Food (JS)](https://annakowalewskaja.github.io/Udemy_JS-React/project64/)__
+* __[Plants (Responsive,JS)](https://annakowalewskaja.github.io/Plants/)__ 
+* __[Konstruct (Responsive)](https://annakowalewskaja.github.io/TMS-Task-2/?)__
+* __[Venom 2 (Responsive,JS)](https://annakowalewskaja.github.io/Venom/index.html)__ 
 * __[Social Network(ReactJS)](https://github.com/AnnaKowalewskaja/SocialNetwork/tree/network)__
-* __[Konstruct(Responsive)](https://annakowalewskaja.github.io/TMS-Task-2/?)__
-* __[Venom 2 (Responsive)](https://annakowalewskaja.github.io/Venom/index.html)__ 
 * __[Expense Calculator (JS)](https://annakowalewskaja.github.io/ExpenseCalculator-JS/)__ 
-* __[Scandi](https://annakowalewskaja.github.io/Scandi/)__ 
+* __[Portfolio Photograph](https://annakowalewskaja.github.io/PortfolioPhotograph/)__
+* __[Construction](https://annakowalewskaja.github.io/ConstructionWorks/)__ 
 * __[FlowerShop](https://annakowalewskaja.github.io/FlowerShop/)__ 
 
 ## __Education__
