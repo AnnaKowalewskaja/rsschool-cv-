@@ -27,6 +27,21 @@ function recycle(array) {
   return materials.map( item => array.filter(el=>(el.material=== item||el.secondMaterial===item)).map(el=>el.type));
 }
 
+function isIsogram(str){ 
+  return !/(\w).*\1/i.test(str)
+}
+function duplicateEncode(word){
+  word = word.toLowerCase();
+  let res='';
+  for (let i = 0; i < word.length;i++){
+   if (word.lastIndexOf(word[i]) === word.indexOf(word[i])){
+   res+='(';
+   }else{
+   res+=')';
+   }
+  }
+  return res;
+}
 
 ```
 
